@@ -5,7 +5,7 @@
 __Phone:__ +7 (962) 602-11-01
 __e-mail:__ trololo221@bk.ru
 __Telegram:__ [@wh0isthisman](@wh0isthisman)
-__Vk:__ [Моя страница](https://vk.com/whoisthisman)
+__Vk:__ [My page](https://vk.com/whoisthisman)
 ===
 ### Some About Myself:
 Currently I am living in Saint-Petersburg and studying at the Polytechnic University. My specialization is mechanic, but I always want to learn a programming. Maybe it is all you need to know about my life.
