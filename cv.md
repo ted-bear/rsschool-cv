@@ -12,8 +12,8 @@ Currently I am living in Saint-Petersburg and studying at the Polytechnic Univer
 ===
 ### Skills:
 * Python:
-+ Pandas
-+ Some Numpy
+    + Pandas
+    + Some Numpy
 * Java (Beginner)
 * JavaScript (Beginner)
 * HTML5
