@@ -1,12 +1,17 @@
 # Toporkov Egor
 ### Trying to become a Frontend Developer
+
 ===
+
 ### Contact information:
-__Phone:__ +7 (962) 602-11-01
-__e-mail:__ trololo221@bk.ru
-__Telegram:__ [@wh0isthisman](@wh0isthisman)
-__Vk:__ [My page](https://vk.com/whoisthisman)
+
+**Phone:** +7 (962) 602-11-01
+**e-mail:** trololo221@bk.ru
+**Telegram:** [@wh0isthisman](@wh0isthisman)
+**Vk:** [My page](https://vk.com/whoisthisman)
+
 ===
+
 ### Some About Myself:
 Currently I am living in Saint-Petersburg and studying at the Polytechnic University. My specialization is mechanic, but I always want to learn a programming. Maybe it is all you need to know about my life.
 ===
@@ -22,7 +27,7 @@ Currently I am living in Saint-Petersburg and studying at the Polytechnic Univer
 * Some Algorithms and Data Structure
 ===
 ### Code example:
-Here is some code from my subject in university, it is a realisation of __linked list in Python__:
+Here is some code from my subject in university, it is a realisation of **linked list in Python**:
 ``` class node:
     def __init__(self, num):
         self.val = num
@@ -47,6 +52,7 @@ def print_list(head):
 ===
 ### Courses: 
 * RS School Course "JJavaScript/Front-end. Stage 0» (in progress)
+
 ===
 ### Languages: 
 * Russian (Native)
