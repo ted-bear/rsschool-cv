@@ -1,3 +1,4 @@
 # rsschool-cv
-
-My cv1: https://ted-bear.github.io/rsschool-cv/cv
+rsschool-cv-html
+----
+https://ted-bear.github.io/rsschool-cv/
